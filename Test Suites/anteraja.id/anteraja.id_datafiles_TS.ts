@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>anteraja.id_datafiles_TS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0daf62d4-42ec-452b-adbb-ae33f4b766eb</testSuiteGuid>
+   <testCaseLink>
+      <guid>a692dd93-1952-4c45-8c2a-92274fed78cb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/anteraja.id_datafiles</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>841917b4-921e-4a0c-812f-eeac08a4b98a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/anteraja.id/5 Origin - Destination</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>841917b4-921e-4a0c-812f-eeac08a4b98a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>origin</value>
+         <variableId>7e964bf7-26c6-4b64-bcd7-016627c37d53</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>841917b4-921e-4a0c-812f-eeac08a4b98a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>destination</value>
+         <variableId>157bc2e7-1ef1-4c50-9c7e-d2d6687a782c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
